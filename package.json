@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-smock1",
   "version": "1.0.0",
-  "description": "test",
+  "description": "dd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/smockgithub/cordova-plugin-smock1.git"
   },
-  "keywords": [
-    "cordova-plugin-smock1"
-  ],
-  "author": "smock",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/smockgithub/cordova-plugin-smock1/issues"
